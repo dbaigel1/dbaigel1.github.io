@@ -1,0 +1,44 @@
+/* stylesheet.css */
+
+body {
+	background-color: #545454;
+	font-family: sans-serif;
+	color: white;
+}
+
+img {
+	border-radius: 50%;
+	border: 2px solid #000000;
+	box-shadow: 10px 5px 15px 2px #000000;
+	height: 400px;
+	width: 400px;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	font-weight: bold;
+	color: lightblue;
+}
+
+a {
+	color: lightpink;
+	text-decoration: none;
+}
+
+a:hover {
+	font-weight: bold;
+	font-size: 120%;
+
+}
+
+.bio {
+	text-align: center;
+	margin-left: 25%;
+	margin-right: 25%;
+}
