@@ -9,6 +9,6 @@ Created on September 18th 2015
 
 2. I worked completely alone on this assignment.
 
-3. It took me ~3 hours to complete this assignment.
+3. It took me ~4 hours to complete this assignment.
 
 
